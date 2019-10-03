@@ -2,6 +2,7 @@
 
 This is a seed and example project for building a RESTful API using the following technologies:
 
+Test
 * Java 8
 * Spring Boot
 * Jersey
